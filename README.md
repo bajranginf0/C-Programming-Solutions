@@ -53,6 +53,4 @@ This repository is organized into different topics to help you navigate the solu
 
 ---
 
-## 📁 **Repository Structure**
-Each topic has a separate folder containing **problem statements and solutions in PDF format**.
 
