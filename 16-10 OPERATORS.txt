@@ -1,0 +1,15 @@
+1) write a c program to swap two numbers using third variable the given numbers are a=13 , b=15 and expected output is b=13 and a=15?
+ans) c=a;
+a=b;
+b=c;
+
+2) write a c program to swap two numbers without using third varible?
+ans) a=a+b;
+b=a-b;
+a=a-b;
+
+3) to add two integers without using + operator?
+ans- a-(-b)
+
+4) to find the next multiple of 100 of a given number 245 and expected output is 300?
+ans)nextmultipleof100 = (number= 245+99)/100*100)

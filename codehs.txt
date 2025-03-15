@@ -1,0 +1,50 @@
+DAY1
+1)Write a C program to find the previous multiple of 100 of a given three digit number . The given number is 234 and the output is 200.(Previous Multiple)
+
+2)Write a C program to reverse a two digit number without using any loop. The given number is 13 and the output is 31.(Reverse the number)
+
+3)Write a C program to add each digit of a given two digit number. The given number is 67.
+Explanation 67 = 6 + 7 = 13
+Expected output is : 13  (Add digits)
+
+DAY2
+4)Write a C program to reverse 3 digit number without using any loops. Given number is 786 and expected output is 687.(Reverse A Number)
+
+5)Write a C program to calculate and print the area of a square and rectangle.
+Side of square is : 5
+Length and breadth of rectanngle is : 4 , 5  (Find the Area)
+
+6)A shopkeeper buys a TV set for Rs. 3500 and sells it at a profit of 27%. Apart from this a VAT of 12.7% and Service Charge is 3.87% is charged. 
+Write a C program to Display total selling price, profit along with vat and service charge.
+To calculate the selling price, profit, VAT, and service charge, follow these steps:
+1) Calculate the selling price:
+  Selling Price = Cost Price + Profit
+  Selling Price = Rs. 3500 + (27% of Rs. 3500)
+2) Calculate the profit:
+  Profit = Selling Price - Cost Price
+3) Calculate VAT:
+  VAT = 12.7% of Selling Price
+4) Calculate Service Charge:
+  Service Charge = 3.87% of Selling Price   (Shopping Of TV)
+
+7)Write a c program to find the next multiple of 10 of a given two digit number, if the given number's last digit is less than 5 then .
+find the previous multiple of 10 and if the given number's last digit is greater than or equal to 5 then find the next multiple of 10.
+[Dont use if else or ternary operator ]   (Next Multiple of 10)
+
+DAY3
+8)Write a c program to take input of 3 digit number from the user , and add the 1st digit and last digit of that given number.
+Input as :
+Enter a three digit number :
+345
+Output as :
+The addition of first and last digit of the given num is : 8     (Add 1st and Last)
+
+9)Write a program to take input for seconds from the user , And convert it into Hour, Minutes , Second format 
+ (Time Conversion)
+
+10)Write a C program to convert temperature from Fahrenheit to Celsius.
+C= (F - 32) * (5.0 / 9.0)
+Input as :
+Enter temperature in Fahrenheit: 100
+Expected output:
+100.00 Fahrenheit is 37.78 Celsius.    (Convert Fahrenheit to Celsius)

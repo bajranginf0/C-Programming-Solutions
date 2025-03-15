@@ -1,0 +1,11 @@
+1) write  c program to check the no is divisible by 5 and 10 without using any if condition and ternary operator?
+ input as 10
+output as 5 and 10 both
+input as 15
+o/p as no is divisible by 5 not with 10
+
+2) checking the person 
+#1 the person should be citizenship of india only respresent india as i or I
+  2 the age should be greater than 18 and less than 80
+   3if above 2 requirement will match then only show the status your  are elegible for voting chose the  else show the status not eegible wait for right time
+with out using if else or turary
